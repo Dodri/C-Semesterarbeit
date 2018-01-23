@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Plattenliste SYSTEM "Musiker.dtd">
 
-<Plattenliste> 
+<Plattenliste>
 
 <Platte xml:id="1">
     <Albumtitel> 22, A Million </Albumtitel>
@@ -11,38 +11,41 @@
     <Plattenladen> Early Bird Records </Plattenladen>
     <Review> Der Amerikaner präsentierte das Album auf dem eigenen Festival in seiner Heimatstadt Eaux Claires und ließ die internationale Musikszene kollektiv durchdrehen. Erneut schafft es der feuchte Traum aller Hipster-Girls sein komplettes Album wie ein vertrautes, anspruchsvolles Kunstwert klingen zu lassen. Dabei scheint das Rezept von Vernon simpler, als die Zubereitung einer Tiefkühlpizza: Man haucht ein paar doppeldeutige Zeilen über Wälder, Landschaften, Einsamkeit und Melancholie in ein Diktiergerät, jagt die Aufnahme durch Auto-Tune und fertig ist die moderne Stimme der Sensibilität des Pop-Business, die man auch schon in der ersten Single-Auskopplung, "22 (OVER SOON)", zu hören bekam.- Testspiel.de </Review>
 </Platte>
-    
+
 <Platte xml:id="2">
     <Albumtitel> Palmen und Beats </Albumtitel>
     <Kuenstler> Dexter </Kuenstler>
     <Entstehungsjahr> 2015 </Entstehungsjahr>
     <Ort> Hamburg </Ort>
     <Plattenladen> Slam Records </Plattenladen>
-    <Review> Nun steht Dexter wieder selber hinterm Mikrofon:"Palmen und 
+    <Review> Palmen und Beats ist Dexters Instrumentalversion von seinem Klassiker 'Palmen & Freunde'.Es klingt ziemlich genau so, wie wenn du mit deinen Kumpels in deinem Dorf oder deiner Kleinstadt oder deiner Großstadt in einem kühlen Kellerraum abhängst, staubige Platten auflegst und neben der Sportzigarette auch das Mic kreist. Mit dem kleinen, aber feinen Unterschied, dass hier Dexters 1a-Qualitäts-Beats die Grundlagen bieten und am Mic neben dem Produzenten selbst Meister ihres Fachs wie Morlockk Dilemma, Döll, Audio88, Yassin, Fatoni, Mädness, Sonne Ra oder Chefket aktiv sind.Und, nix gegen dich oder deine Kumpels, aber die machen das halt alle schon bisschen was länger und dementsprechend auch besser. - rap.de </Review>
 </Platte>
-    
+
 <Platte xml:id="3">
     <Albumtitel> I Put A Spell On You </Albumtitel>
     <Kuenstler> Nina Simone </Kuenstler>
     <Entstehungsjahr> 1965 </Entstehungsjahr>
     <Ort> Berlin </Ort>
     <Plattenladen> Soultrade Recordstore </Plattenladen>
+    <Review> One of her most pop-oriented albums, but also one of her best and most consisten. Most of the songs feature dramatic, swining large-band orchestration, with the accent on the brass and strings. Simone didn't write any of the material, turning to popular European songsmiths Charles Aznavour, Jacques Brel, and Anthony Newley, as well as her husband, Andy Stroud, and her guitarist, Rudy Stevenson, for bluesier fare. There are really fine tunes and interpretations, on which Simone gives an edge to the potentially fey pop songs, taking a sudden break for a straight jazz instrumental with 'Blues on Purpose'. The title track, a jazzy string ballad version of the Screamin' Jay Hawkins classic, gave the Veatles the inspiration for the phrasing on the bridge of 'Michelle'. - allmusic.com </Review>
 </Platte>
-    
-<Platte xml:id="4"> 
+
+<Platte xml:id="4">
     <Albumtitel> Winelight </Albumtitel>
     <Kuenstler> Groove Washington Jr </Kuenstler>
     <Entstehungsjahr> 1980 </Entstehungsjahr>
     <Ort> Koeln </Ort>
     <Plattenladen> Underground Recordstore </Plattenladen>
+    <Review> Grover Washington, Jr., has long been one of the leaders in what could be called rhythm& jazz, essentially R&B-influenced jazz. Winelight is one of his finest albums, and not primarily because of the Bill Withers hit "Just the Two of Us." It is the five instrumentals that find Washington (on soprano, alto, and teno) really stretching out. If he had been only interested in sales, Washington's solos could have been half as long and he would have stuck closely to the melodie. Instead he really pushes himself on some of these selections, particularly the title cut. A memorable set of high-quality and danceable soul-jazz. - allmusic.com</Review>
 </Platte>
-    
+
 <Platte xml:id="5">
     <Albumtitel> The Arc Of Tension </Albumtitel>
     <Kuenstler> Oliver Koletzki </Kuenstler>
     <Entstehungsjahr> 2017 </Entstehungsjahr>
     <Ort> Berlin </Ort>
     <Plattenladen> Melting Point Recordstore </Plattenladen>
+    <Review> On his sixth album, The Arc Of Tension, the Berlin based DJ, label owner, and producer Oliver Koletzki yet again presents his remarkable vision of contemporary electronic music, while also assuming the role of a storyteller. The Arc Of Tension speaks to its listener as a singular, self-contained work, which communicates by way of its natural flow and arc of suspense. The latter is mirrored not only in the multifarious narrative of the actual album, but can also be understood as evidence for its creator's long musical history. While Koletzki focused on a diverse range of vocal collaborations on his previous long players, he now moves on to a different form of storytelling, rooted in the quiet confidence of a veteran musician, as well as the hectic lifestyle of a globally in demand DJ. The Arc Of Tension is a psychonautic journey through the various continents of Oliver's consciousness. The quiet chirps and warbles, which initially unfold on the opener "A Tribe Called Kotori", thus act as a loose associative bridge to Der Mückenschwarm, Oliver's big breakthrough hit of 2005. The first minutes of the album leave no room for doubt -- the listener is immediately locked into and captivated by an autobiographical world of sound. The dreamy, exotic timbres of the downbeat tracks "By My Side", "Tankwa Town", and "Byron Bay" are penetrating, but in a subtle yet purposeful manner. But soon the tension tightens and organic sounds, one-by-one, evolve towards a sterner, electronic cadence. The bittersweet neon synths of "Spiritual But Not Religious" pave the way for the complex rhythm of "A Star Called Akasha", an early highlight carried by melancholic cellos and contemplative piano chords. The ultimate turning point follows with "Through The Darkness". Here, at the album's center, Koletzki starts continuously upping the tempo and leads the way with his very own, melodic interpretation of today's techno Zeitgeist, exemplifying that a fusion of delicate musicality and sheer force leads to impressively ecstatic results. You fully take off into space, weightlessly propelled by the ambient drones of "The Day We Leave Earth". Ultimately, what lingers is the feeling that The Arc Of Tension is a deep glance into the innermost being of an outstanding artist. -forcedexposure.com </Review>
 </Platte>
 
 <Platte xml:id="6">
@@ -51,6 +54,7 @@
     <Entstehungsjahr> 1986 </Entstehungsjahr>
     <Ort> Amsterdam </Ort>
     <Plattenladen> Red Light Records </Plattenladen>
+    <Review> Inter-genre violence was bubbling beneath the surface, overshadowing the turn hip-hop was taking -- a turn away from what was a mid-'90s renaissance of the late-'80s golden age excellence, quickly evolving into what is now known as the jiggy era. On "The Bizness" -- a song featuring the quickly maturing Common before his lyrical touchstone One Day It'll All Makes Sense -- Dave spits "Do not connect us with those champagne-sippin' money-fakers." Hip-hop was at a crossroads, a precipice -- whatever you'd like to call it -- and De La were concerned. "Supa Emcees" asked "Whatever happened to the MC?" and cautioned "MCing ain't for you!" "Dog Eat Dog" asserted that folks were "fucking my love in all the wrong places" -- an obvious metaphor. "Baby Baby Baby Baby Ooh Baby" is a sharp satire of the Bad Boy-style hip-hop that was beginning its reign, fit with a beat as Hitmen-esque as an '80s R&B revision with Posdnuos rhyming in a conspicuously Biggie-like cadence. No, this was not an unabashed hip-hop classic like 3 Feet High and Rising and De La Soul Is Dead, or as provocative and fresh as some of its 1996 peers. It was, however, an entertaining and unapologetic De La album that placed hip-hop in front of a mirror. It's also an album that did its part to solve what De La were articulating as a problem, ushering in what would become the newer version of the Native Tongues, with multi-production from a young Jay Dee, Mos Def's introduction to most listeners, the aforementioned Common cameo, and hooks from Erykah Badu and Zhané, artists leading the burgeoning neo-soul movement of the time. It was as if De La were providing an antidote. Stakes Is High is an important album of this era, an album of great production and the most skilled of MCs who diagnosed symptoms of what they believed were hip-hop health complications -- but it offered the medicine. -allmusic.com </Review>
 </Platte>
 
 <Platte xml:id="7">
@@ -59,6 +63,7 @@
     <Entstehungsjahr> 2016 </Entstehungsjahr>
     <Ort> Koeln </Ort>
     <Plattenladen> Underground Recordstore </Plattenladen>
+    <Review> Ganz so sicher, dass man noch einmal neue Musik von Childish Gambino zu hören bekommt, konnte man in den vergangenen Jahren gar nicht sein. Sei es der Struggle mit dem eigenen Künstlernamen, das Löschen aller sozialen Kanäle, oder die Fokussierung auf seine Tätigkeit als Schauspieler und Autor im Film- und Serienbiz, es schien, als plane Donald Glover, sein Musiker-Alter-Ego an den Nagel zu hängen. Schließlich kam es dann doch noch zur Ankündigung, das dritte Album des Kaliforniens trägt den Titel „Awaken, my Love!“. Bereits die erste Auskopllung, das Intro „Me and your Mama“ ließ vermuten, dass die neue LP eine andere Richtung als der Vorgänger „Because the Internet“ einschlagen würde. Insgesamt 11 Songs umfasst das Album, Features gibt es keine. Als einziger Beteiligter tritt der Produzent Ludwig Göransson auf, der gemeinsam mit Donald Glover für den kompletten Soundteppich verantwortlich zeichnet. Wir haben uns „Awaken, my Love!“ angehört. - backspin.de </Review>
 </Platte>
 
 <Platte xml:id="8">
@@ -67,21 +72,24 @@
     <Entstehungsjahr> 2000</Entstehungsjahr>
     <Ort> Berlin </Ort>
     <Plattenladen> Soultrade Recordstore </Plattenladen>
+    <Review> Since the arrival of Erykah Badu onto the neo-soul scene back in 1997 with Baduizm, commercial music stood up and took notice with an onslaught of similar artists reaching comparable peaks of mainstream success. After taking some time off for introspection and to raise her son, Badu returned with Mama's Gun, which is a turning point for her in many ways. Gone are the cryptic "Baduizms" that glossed all over her first release, replaced with a more honestly raw Badu singing directly from her heart rather than her head. Sonically, Badu wades out into adventurous territories as well. From the Jimi Hendrix-inspired opening number to the closing ten-minute song suite, she develops fresh aspects of her sound, employing artists such as legendary jazz vibraphonist Roy Ayers, jazz trumpeter Roy Hargrove, Stephen Marley, and Roots drummer ?uestlove; she sought after producer Jay Dee as well. The results are consistently tasteful, which only helps to prove once again that Badu is miles ahead of the rest. -allmusic.com </Review>
 </Platte>
-    
+
 <Platte xml:id="9">
     <Albumtitel> Welcome 2 Detroit </Albumtitel>
     <Kuenstler> J Dilla </Kuenstler>
     <Entstehungsjahr> 2001 </Entstehungsjahr>
     <Ort> Muenchen</Ort>
     <Plattenladen> Optimal Records </Plattenladen>
+    <Review> Jay Dee made a name for himself as one-third of A Tribe Called Quest's beat-making faction (the Ummah). Thanks to his work on Common's critically acclaimed Like Water for Chocolate and Q-Tip's post-Quest endeavor Amplified, Dee has also established himself as a hip-hop super-producer. While Dee's stock continues to rise (working with Janet Jackson, Erykah Badu, and Macy Gray), his underground projects have been less fruitful. Reason being, when it comes to enlisting new MCs to collaborate with, Dee has yet to locate a lyricist capable of augmenting his sublime production. This fact became apparent during Dee's short-lived stint as a member of Slum Village, and the trend continues with his first solo outing, Welcome 2 Detroit. Here, Dee continues to showcase a diverse assortment of sensuous melodies and booming funk samples. The Detroit-bred MCs who Dee chooses to highlight -- Phat Kat on "Rico Suave Bossa Nova" and Beej on "Beej-N-Dem, Pt. 2" prove to be very mediocre lyricists. Yet Dee did manage to round up a few hometown prospects, as Frank N Dank liven up "Pause" and Elzhi rips a few furious verses on "Come Get It." Though Dee flips a few clumsy bars as well, Welcome 2 Detroit really takes off when he sticks solely to an instrumental script, retouching trumpeter Donald Byrd's "Think Twice" and transforming Kraftwerk's indelible "Trans-Europe Express" into the strippers'-anthem-in-waiting "B.B.E. (Big Booty Express)." - allmusic.com </Review>
 </Platte>
-    
+
 <Platte xml:id="10">
     <Albumtitel> Everything Is Wrong </Albumtitel>
     <Kuenstler> Moby </Kuenstler>
     <Entstehungsjahr> 1995 </Entstehungsjahr>
     <Ort> Berlin </Ort>
     <Plattenladen> Vopo Records </Plattenladen>
+    <Review> For some it was the pinnacle of his career, for others one of a continued string of triumphs (others doubtless cared not at all, thinking somehow that synth and dancebeats equalled musical insincerity, but such is life). Regardless of how one takes it, Everything Is Wrong shows Moby at a definite high point, and if some tracks are much more memorable and involved than others, those successes alone justify the attention and hype he received in his earliest days. Even more noteworthy is that for all that the album is a definite product of time and place, namely 1994-1995, it stands up to further listens for all the further changes in dance since. Having already made his mark with tracks like "Go," "Next Is the E," and "Move," on Everything Is Wrong Moby attempted to balance out the creation of an album in a complete, single-unit sense with his knack for immediately catchy singles. On the latter point he succeeds perfectly, with the frenetic, jungle-inspired anthemic diva showcase "Feeling So Real" (punctuated just so with English-inspired MC breaks) and the giddily sweet pop-minded house of "Everytime You Touch Me" utterly irresistible. Hints of future changes crop up with the speed metal-via-Ministry reworking of Move EP's "All That I Need Is to Be Loved," but the similarly minded blues/thrash of "What Love" forecasts the ham-handed slogs of Animal Rights all too well. Meanwhile, the string-touched "God Moving Over the Face of the Waters" is a self-consciously beautiful, cinematic meditation on spiritual power that in lesser hands might be cheese but comes across here as truly affecting. If there's an ace in the hole, it's the inspired recruiting of former Hugo Largo vocalist Mimi Goese, who had spent the early '90s well out of the public eye. Her turns on "Into the Blue" and especially the haunting, evocative album-closer "When It's Cold I'd Like to Die" bring out in the best in both musicians. -allmusic.com </Review>
 </Platte>
 </Plattenliste>
