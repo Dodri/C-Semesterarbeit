@@ -1,0 +1,9 @@
+<!ELEMENT Plattenliste (Platte+)>
+<!ELEMENT Platte (Albumtitel, Kuenstler, Entstehungsjahr, Ort, Plattenladen, Review)>
+<!ATTLIST Platte xml:id CDATA #REQUIRED>
+<!ELEMENT Albumtitel (#PCDATA)>
+<!ELEMENT Kuenstler (#PCDATA)>
+<!ELEMENT Entstehungsjahr (#PCDATA)>
+<!ELEMENT Ort (#PCDATA)>
+<!ELEMENT Plattenladen (#PCDATA)>
+<!ELEMENT Review (#PCDATA)>
