@@ -1,0 +1,85 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<!DOCTYPE Plattenliste SYSTEM "Musiker.dtd">
+
+<Plattenliste> 
+
+<Platte xml:id="1">
+    <Albumtitel> 22, A Million </Albumtitel>
+    <Kuenstler> Bon Iver </Kuenstler>
+    <Entstehungsjahr> 2016 </Entstehungsjahr>
+    <Ort> Koeln </Ort>
+    <Plattenladen> Early Bird Records </Plattenladen>
+</Platte>
+    
+<Platte xml:id="2">
+    <Albumtitel> Palmen und Beats </Albumtitel>
+    <Kuenstler> Dexter </Kuenstler>
+    <Entstehungsjahr> 2015 </Entstehungsjahr>
+    <Ort> Hamburg </Ort>
+    <Plattenladen> Slam Records </Plattenladen>
+</Platte>
+    
+<Platte xml:id="3">
+    <Albumtitel> I Put A Spell On You </Albumtitel>
+    <Kuenstler> Nina Simone </Kuenstler>
+    <Entstehungsjahr> 1965 </Entstehungsjahr>
+    <Ort> Berlin </Ort>
+    <Plattenladen> Soultrade Recordstore </Plattenladen>
+</Platte>
+    
+<Platte xml:id="4"> 
+    <Albumtitel> Winelight </Albumtitel>
+    <Kuenstler> Groove Washington Jr </Kuenstler>
+    <Entstehungsjahr> 1980 </Entstehungsjahr>
+    <Ort> Koeln </Ort>
+    <Plattenladen> Underground Recordstore </Plattenladen>
+</Platte>
+    
+<Platte xml:id="5">
+    <Albumtitel> The Arc Of Tension </Albumtitel>
+    <Kuenstler> Oliver Koletzki </Kuenstler>
+    <Entstehungsjahr> 2017 </Entstehungsjahr>
+    <Ort> Berlin </Ort>
+    <Plattenladen> Melting Point Recordstore </Plattenladen>
+</Platte>
+
+<Platte xml:id="6">
+    <Albumtitel> Stakes Is High </Albumtitel>
+    <Kuenstler> De La Soul </Kuenstler>
+    <Entstehungsjahr> 1986 </Entstehungsjahr>
+    <Ort> Amsterdam </Ort>
+    <Plattenladen> Red Light Records </Plattenladen>
+</Platte>
+
+<Platte xml:id="7">
+    <Albumtitel> Awaken, My Love! </Albumtitel>
+    <Kuenstler> Childish Gambino </Kuenstler>
+    <Entstehungsjahr> 2016 </Entstehungsjahr>
+    <Ort> Koeln </Ort>
+    <Plattenladen> Underground Recordstore </Plattenladen>
+</Platte>
+
+<Platte xml:id="8">
+    <Albumtitel> Mama's Gun </Albumtitel>
+    <Kuenstler> Erykah Badu </Kuenstler>
+    <Entstehungsjahr> 2000</Entstehungsjahr>
+    <Ort> Berlin </Ort>
+    <Plattenladen> Soultrade Recordstore </Plattenladen>
+</Platte>
+    
+<Platte xml:id="9">
+    <Albumtitel> Welcome 2 Detroit </Albumtitel>
+    <Kuenstler> J Dilla </Kuenstler>
+    <Entstehungsjahr> 2001 </Entstehungsjahr>
+    <Ort> Muenchen</Ort>
+    <Plattenladen> Optimal Records </Plattenladen>
+</Platte>
+    
+<Platte xml:id="10">
+    <Albumtitel> Everything Is Wrong </Albumtitel>
+    <Kuenstler> Moby </Kuenstler>
+    <Entstehungsjahr> 1995 </Entstehungsjahr>
+    <Ort> Berlin </Ort>
+    <Plattenladen> Vopo Records </Plattenladen>
+</Platte>
+</Plattenliste>
