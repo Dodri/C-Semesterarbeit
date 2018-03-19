@@ -21,11 +21,7 @@ struct Platte {
     float Preis;
 };
 
-struct txt {
-    int id;
-    int Bestand;
-    float Preis;
-};
+
 
 Platte plattenArr[10];
 
@@ -37,7 +33,14 @@ void zuweisen(string tagname, string taginhalt, int i){
       //break;
     } else if(tagname == "id") {
         plattenArr[i].id = taginhalt;
+    } else if(tagname == "Kuenstler") {
+        plattenArr[i].Kuenstler = taginhalt;
+    } else if(tagname == "Ort") {
+        plattenArr[i].Ort = taginhalt;
+    } else if(tagname == "Plattenladen") {
+        plattenArr[i].Plattenladen = taginhalt;
     }
+
 
 }
 
@@ -87,8 +90,13 @@ void konvertieren(){
     for(i = 0; i < 10; i++){
         outputFile << "<Platte xml:id=\""+ plattenArr[i].id + "\">" << endl;
         outputFile << "\t<Albumtitel>" + plattenArr[i].Albumtitel + "</Albumtitel>" << endl;
+        outputFile << "\t<Kuenstler>" + plattenArr[i].Kuenstler + "</Kuenstler>" << endl;
+        outputFile << "\t<Ort>" + plattenArr[i].Ort + "</Ort>" << endl;
+        outputFile << "\t<Plattenladen>" + plattenArr[i].Plattenladen + "Plattenladen" << endl;
         outputFile << "\t<Bestand>" + to_string(plattenArr[i].Bestand) + "</Bestand>" << endl;
+        outputFile << "\t<Preis>" +  to_string(plattenArr[i].Preis) + "</Preis>" << endl;
         outputFile << "</Platte>" << endl;
+
     }
 
     outputFile << "</Plattenliste>" << endl;
@@ -100,7 +108,11 @@ void konvertieren(){
 void ausgabe(int index) {
     cout << "ID: " + plattenArr[index].id << endl;
     cout << "ALbumtitel: " + plattenArr[index].Albumtitel << endl;
+    cout << "Kuenstler: " + plattenArr[index].Kuenstler << endl;
+    cout << "Ort: " + plattenArr[index].Ort << endl;
+    cout << "Plattenladen: " + plattenArr[index].Plattenladen<< endl;
     cout << "Bestand: " + to_string(plattenArr[index].Bestand) << endl;
+    cout << "Preis " + to_string(plattenArr[index].Preis) << endl;
 }
 
 void search(){
@@ -119,9 +131,13 @@ void search(){
 
     for(int i = 0; i < 10; i++){
         if(
-            (cat.find('id') && plattenArr[i].id.find(searchFor) != string::npos)
-            || (cat.find("Albumtitel") && plattenArr[i].Albumtitel.find(searchFor) != string::npos)
-            || (cat.find("Bestand") && to_string(plattenArr[i].Bestand).find(searchFor) != string::npos)
+            (cat.find('id') != string::npos && plattenArr[i].id.find(searchFor) != string::npos)
+            || (cat.find("Albumtitel") != string::npos && plattenArr[i].Albumtitel.find(searchFor) != string::npos)
+            || (cat.find("Kuenstler") != string::npos && plattenArr[i].Kuenstler.find(searchFor) != string::npos)
+            || (cat.find("Ort") != string::npos && plattenArr[i].Ort.find(searchFor) != string::npos)
+            || (cat.find("Plattenladen") != string::npos && plattenArr[i].Plattenladen.find(searchFor) != string::npos)
+            || (cat.find("Bestand") != string::npos && to_string(plattenArr[i].Bestand).find(searchFor) != string::npos)
+            || (cat.find("Preis") != string::npos && to_string(plattenArr[i].Preis).find(searchFor) != string::npos)
         ) {
             ausgabe(i);
             foundSth = true;
@@ -159,8 +175,8 @@ void parseXML(){
 
 
     bool isid = false;
-    bool isplatte = false;
-    bool isalbumtitel = false;
+   /* bool isplatte = false;
+    bool isalbumtitel = false; */
 
 
     for (zaehler=0,zustand=0;;)
@@ -176,14 +192,10 @@ void parseXML(){
           zuweisen(tagname, taginhalt, i);
 
           if(tagname == "/Platte"){
-              //plattenarray[i] = platte;
-              //memcpy(&plattenarray, &platte, sizeof(platte) * i);
-              //*(plattenArr + i) = platte;
-              //plattenArr[i] = platte;
+
               i++;
               platte = {};
-             // platte = (struct Platte*) malloc(sizeof(Platte));
-             // platte = new Platte();
+
           }
 
           tagzaehler = 0;
